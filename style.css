@@ -1,0 +1,35 @@
+.bgni{
+	background-image: url(nier-automata3.jpg);
+	background-size: 100% 100%
+}
+button{
+	background-color:green;
+	color:white;
+	transition: 0.5s
+}
+button:hover {
+	color: green;
+	background-color:white;
+
+}
+.bgi{
+	background-image: url(automata2.jpg);
+	background-size: 100% 100%
+}
+.a{
+	background-image: url(trailer-min.jpg);
+	background-size: 100% 100%
+}
+.opera{
+	background-image: url(opera1.jpg);
+	background-size: 100% 100%
+}
+.head{
+	background-color: black;
+}
+a:link{
+	text-decoration: none;
+}
+.link{
+	color: black;
+}
